@@ -1,3 +1,4 @@
+Let's begin!
 Recipe #1:
 6 strips bacon
 2 Tbsp butter
@@ -11,3 +12,4 @@ Recipe #1:
 ¾ cup sour cream
 1 cup grated cheddar cheese, plus more for garnish
 Salt and pepper to taste
+Enjoy my recipe!
