@@ -7,7 +7,7 @@
   + The soup is rich and flavory.
   + It is suitable to drink during the colder seasons.
 
-![Picture of Loaded Baked Potato Soup](/users/isabelzhu/assignment_03/recipe/recipe.jpg "Loaded Baked Potato Soup")
+![Picture of Loaded Baked Potato Soup](/recipe/recipe.jpg "Loaded Baked Potato Soup")
   
   **Reference:**
   
